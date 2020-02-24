@@ -1,1 +1,1 @@
-insert into test values('testuser');
+insert into test(a) values('testuser');
